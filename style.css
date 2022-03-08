@@ -1,0 +1,16 @@
+.center_card {
+  justify-content: center !important;
+  align-items: center !important;
+  margin-top: 50px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+body {
+  background-image: url("images/back_image1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn {
+  align-items: center;
+}
